@@ -7,7 +7,6 @@
             "email": "munizeverton@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "bin": [
         "bin/portablesigner.jar"
     ]
