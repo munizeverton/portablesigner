@@ -14,6 +14,6 @@
     },
     "minimum-stability": "stable",
     "bin": [
-        "bin/PortableSigner.jar"
+        "bin/portablesigner.jar"
     ]
 }
