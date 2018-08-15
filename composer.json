@@ -1,0 +1,14 @@
+{
+    "name": "munizeverton/portablesigner",
+    "description": "Signer pdf file",
+    "authors": [
+        {
+            "name": "Everton Muniz",
+            "email": "munizeverton@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "bin": [
+        "bin/portablesigner.jar"
+    ],
+}
