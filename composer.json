@@ -7,8 +7,13 @@
             "email": "munizeverton@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "munizeverton\\PortableSigner\\": "src"
+        }
+    },
     "minimum-stability": "stable",
     "bin": [
-        "bin/portablesigner.jar"
-    ],
+        "bin/PortableSigner.jar"
+    ]
 }
